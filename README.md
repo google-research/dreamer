@@ -22,6 +22,9 @@ If you find this open source release useful, please reference in your paper:
 }
 ```
 
+Also see this simpler and faster implementation of [Dreamer in TensorFlow
+2](https://github.com/danijar/dreamer).
+
 ## Method
 
 ![Dreamer model diagram](https://imgur.com/JrXC4rh.png)
