@@ -2,6 +2,11 @@
 
 Danijar Hafner, Timothy Lillicrap, Jimmy Ba, Mohammad Norouzi
 
+**Note:** This is the original implementation. To build upon Dreamer, we
+recommend the newer implementation of [Dreamer in TensorFlow
+2](https://github.com/danijar/dreamer). It is substantially simpler
+and faster while replicating the results.
+
 <img width="100%" src="https://imgur.com/x4NUHXl.gif">
 
 Implementation of Dreamer, the reinforcement learning agent introduced in
@@ -21,9 +26,6 @@ If you find this open source release useful, please reference in your paper:
   year={2019}
 }
 ```
-
-Also see this simpler and faster implementation of [Dreamer in TensorFlow
-2](https://github.com/danijar/dreamer).
 
 ## Method
 
